@@ -46,3 +46,24 @@ Ullamcorper dignissim cras tincidunt lobortis. Scelerisque felis imperdiet proin
 
 # Our Projects
 
+## [JustChange](https://github.com/Crustacean-Hacks/JustChange)
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+<img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At quis risus sed vulputate. Nunc sed augue lacus viverra vitae congue eu. Duis at consectetur lorem donec. Sed turpis tincidunt id aliquet risus feugiat. Montes nascetur ridiculus mus mauris vitae ultricies leo. Sollicitudin nibh sit amet commodo nulla. Eu volutpat odio facilisis mauris sit amet massa vitae. Sed pulvinar proin gravida hendrerit lectus. Eleifend donec pretium vulputate sapien. Sed blandit libero volutpat sed. Orci phasellus egestas tellus rutrum tellus pellentesque. Platea dictumst vestibulum rhoncus est. Dignissim diam quis enim lobortis scelerisque fermentum dui faucibus. Vitae aliquet nec ullamcorper sit amet risus nullam eget felis. Vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Non consectetur a erat nam.
+
+## [FarmSight](https://github.com/Crustacean-Hacks/FarmSight)
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quam pellentesque nec nam aliquam sem et tortor consequat. Netus et malesuada fames ac turpis. Ut ornare lectus sit amet est placerat in egestas erat. Ac tortor vitae purus faucibus ornare suspendisse sed nisi. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Molestie ac feugiat sed lectus. Leo a diam sollicitudin tempor id eu nisl nunc. Nulla pharetra diam sit amet. Ante metus dictum at tempor commodo ullamcorper a lacus. Ac odio tempor orci dapibus.
+
+## [WhatsUpDoc](https://github.com/Crustacean-Hacks/WhatsUpDoc)
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> 
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"> 
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quam pellentesque nec nam aliquam sem et tortor consequat. Netus et malesuada fames ac turpis. Ut ornare lectus sit amet est placerat in egestas erat. Ac tortor vitae purus faucibus ornare suspendisse sed nisi. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Molestie ac feugiat sed lectus. Leo a diam sollicitudin tempor id eu nisl nunc. Nulla pharetra diam sit amet. Ante metus dictum at tempor commodo ullamcorper a lacus. Ac odio tempor orci dapibus.
