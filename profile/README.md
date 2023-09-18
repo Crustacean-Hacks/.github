@@ -17,32 +17,32 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Quisque id diam vel quam elementum pulvinar. Ac turpis egestas maecenas pharetra convallis. Senectus et netus et malesuada fames ac turpis. Arcu non odio euismod lacinia at quis risus sed. Sed risus pretium quam vulputate dignissim suspendisse. Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Eu mi bibendum neque egestas congue quisque. Pretium quam vulputate dignissim suspendisse in est ante in nibh. Bibendum at varius vel pharetra vel turpis nunc. Sit amet consectetur adipiscing elit pellentesque habitant. Vulputate sapien nec sagittis aliquam malesuada bibendum. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque diam volutpat commodo sed.
 
-Github - https://github.com/isaac-berlin  
-Linkedin - https://www.linkedin.com/in/isaac-berlin/
+[Github](https://github.com/isaac-berlin)  
+[Linkedin](https://www.linkedin.com/in/isaac-berlin/)
 
 ## Ben
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed adipiscing diam donec adipiscing. Pharetra massa massa ultricies mi quis hendrerit dolor magna. Ultrices vitae auctor eu augue. Aliquet nibh praesent tristique magna sit amet purus gravida. Fermentum leo vel orci porta non pulvinar neque. Eu ultrices vitae auctor eu augue ut lectus arcu bibendum. Gravida in fermentum et sollicitudin ac orci phasellus egestas. Cras tincidunt lobortis feugiat vivamus at augue eget arcu dictum. Non diam phasellus vestibulum lorem. Mattis molestie a iaculis at erat pellentesque. Urna nunc id cursus metus aliquam eleifend mi in. At augue eget arcu dictum varius duis at consectetur. Cursus eget nunc scelerisque viverra. Quis vel eros donec ac odio tempor. Auctor elit sed vulputate mi sit amet mauris. At consectetur lorem donec massa. Venenatis urna cursus eget nunc scelerisque viverra mauris in. In hac habitasse platea dictumst quisque sagittis purus sit. Condimentum lacinia quis vel eros donec.
 
 Pulvinar mattis nunc sed blandit libero. Id velit ut tortor pretium viverra suspendisse potenti. Mi in nulla posuere sollicitudin aliquam ultrices sagittis orci a. Sollicitudin aliquam ultrices sagittis orci a. Vitae ultricies leo integer malesuada nunc vel risus. Ipsum dolor sit amet consectetur. Id porta nibh venenatis cras sed felis eget. Turpis massa sed elementum tempus egestas sed sed risus. Proin nibh nisl condimentum id venenatis a condimentum vitae. Felis eget nunc lobortis mattis aliquam faucibus purus in massa. Pulvinar sapien et ligula ullamcorper malesuada. Elementum tempus egestas sed sed risus pretium quam vulputate.
 
-Github - https://github.com/BenjaminLindeen  
-Linkedin - https://www.linkedin.com/in/isaac-berlin/
+[Github](https://github.com/BenjaminLindeen)  
+[Linkedin](https://www.linkedin.com/in/benjaminlindeen/)
 
 ## Alex
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sem fringilla ut morbi tincidunt. Mauris cursus mattis molestie a iaculis at erat pellentesque. Tincidunt id aliquet risus feugiat in ante metus. Eget lorem dolor sed viverra. Id neque aliquam vestibulum morbi blandit cursus. Ac orci phasellus egestas tellus rutrum tellus pellentesque. Et ultrices neque ornare aenean euismod elementum. Suscipit tellus mauris a diam maecenas sed enim ut sem. Scelerisque eleifend donec pretium vulputate sapien nec sagittis aliquam. Aliquet sagittis id consectetur purus ut faucibus.
 
 Amet facilisis magna etiam tempor orci. Id semper risus in hendrerit. Sem integer vitae justo eget magna fermentum iaculis eu non. Quis ipsum suspendisse ultrices gravida dictum fusce ut placerat. Consectetur libero id faucibus nisl tincidunt eget. Enim lobortis scelerisque fermentum dui faucibus in ornare quam viverra. Eleifend mi in nulla posuere sollicitudin aliquam ultrices. Donec enim diam vulputate ut pharetra. Sem fringilla ut morbi tincidunt augue interdum velit euismod. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa. Arcu non sodales neque sodales ut. Ac tincidunt vitae semper quis lectus nulla at. Urna condimentum mattis pellentesque id nibh tortor id aliquet. Volutpat odio facilisis mauris sit amet massa vitae tortor condimentum. Feugiat in ante metus dictum at. Pharetra magna ac placerat vestibulum. Vel pharetra vel turpis nunc eget lorem dolor sed.
 
-Github - https://github.com/alex-iliarski  
-Linkedin - https://www.linkedin.com/in/isaac-berlin/
+[Github](https://github.com/alex-iliarski)  
+[Linkedin](https://www.linkedin.com/in/alex-iliarski/)
 
 ## Robert
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Adipiscing elit ut aliquam purus sit amet. Urna id volutpat lacus laoreet non curabitur. Ipsum a arcu cursus vitae congue. Ullamcorper malesuada proin libero nunc. Nunc sed augue lacus viverra. Orci a scelerisque purus semper eget duis. Convallis posuere morbi leo urna molestie at elementum eu. Ultricies integer quis auctor elit. Pellentesque habitant morbi tristique senectus et. At consectetur lorem donec massa sapien faucibus. Tempor orci dapibus ultrices in. In est ante in nibh mauris cursus mattis molestie. Morbi leo urna molestie at elementum eu facilisis sed. Arcu non sodales neque sodales ut etiam sit amet. Pharetra sit amet aliquam id diam maecenas ultricies mi. Sed felis eget velit aliquet sagittis id consectetur purus ut. Nunc sed augue lacus viverra vitae congue eu consequat. Ut eu sem integer vitae justo eget.
 
 Ullamcorper dignissim cras tincidunt lobortis. Scelerisque felis imperdiet proin fermentum leo vel orci porta. Et tortor at risus viverra adipiscing at. Pellentesque habitant morbi tristique senectus. At auctor urna nunc id cursus. Lectus proin nibh nisl condimentum id. Massa enim nec dui nunc mattis enim. Ac feugiat sed lectus vestibulum mattis ullamcorper velit. Vulputate sapien nec sagittis aliquam malesuada bibendum arcu. Felis eget nunc lobortis mattis aliquam faucibus purus. In fermentum et sollicitudin ac orci phasellus. Quis ipsum suspendisse ultrices gravida dictum fusce ut. In nulla posuere sollicitudin aliquam ultrices. Aliquam purus sit amet luctus venenatis lectus magna fringilla urna.
 
-Github - https://github.com/RWang-Dev   
-Linkedin - https://www.linkedin.com/in/isaac-berlin/
+[Github](https://github.com/RWang-Dev)  
+[Linkedin](https://www.linkedin.com/in/rwang523/)
 
 # Our Projects
 
