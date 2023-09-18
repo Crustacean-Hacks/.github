@@ -37,9 +37,7 @@ Amet facilisis magna etiam tempor orci. Id semper risus in hendrerit. Sem intege
 [Linkedin](https://www.linkedin.com/in/alex-iliarski/)
 
 ## Robert
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Adipiscing elit ut aliquam purus sit amet. Urna id volutpat lacus laoreet non curabitur. Ipsum a arcu cursus vitae congue. Ullamcorper malesuada proin libero nunc. Nunc sed augue lacus viverra. Orci a scelerisque purus semper eget duis. Convallis posuere morbi leo urna molestie at elementum eu. Ultricies integer quis auctor elit. Pellentesque habitant morbi tristique senectus et. At consectetur lorem donec massa sapien faucibus. Tempor orci dapibus ultrices in. In est ante in nibh mauris cursus mattis molestie. Morbi leo urna molestie at elementum eu facilisis sed. Arcu non sodales neque sodales ut etiam sit amet. Pharetra sit amet aliquam id diam maecenas ultricies mi. Sed felis eget velit aliquet sagittis id consectetur purus ut. Nunc sed augue lacus viverra vitae congue eu consequat. Ut eu sem integer vitae justo eget.
-
-Ullamcorper dignissim cras tincidunt lobortis. Scelerisque felis imperdiet proin fermentum leo vel orci porta. Et tortor at risus viverra adipiscing at. Pellentesque habitant morbi tristique senectus. At auctor urna nunc id cursus. Lectus proin nibh nisl condimentum id. Massa enim nec dui nunc mattis enim. Ac feugiat sed lectus vestibulum mattis ullamcorper velit. Vulputate sapien nec sagittis aliquam malesuada bibendum arcu. Felis eget nunc lobortis mattis aliquam faucibus purus. In fermentum et sollicitudin ac orci phasellus. Quis ipsum suspendisse ultrices gravida dictum fusce ut. In nulla posuere sollicitudin aliquam ultrices. Aliquam purus sit amet luctus venenatis lectus magna fringilla urna.
+Hello 
 
 [Github](https://github.com/RWang-Dev)  
 [Linkedin](https://www.linkedin.com/in/rwang523/)
