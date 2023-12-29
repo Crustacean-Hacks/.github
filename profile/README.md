@@ -34,7 +34,7 @@ Hello
 # Our Projects
 
 ## [TabTime](https://github.com/Crustacean-Hacks/HackUIowa) | MongoDB Award winner @ HackUIowa 2023 🎉
-[![My Skills](https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,flask,html,css,bootstrap,mongodb)](https://skillicons.dev)
 
 A Chrome extension that tracks your browsing time on all of your tabs across all of your devices. A beautiful website shows users their browsing data, which is perfectly visualized and easily sortable. 
 
@@ -43,19 +43,12 @@ A Chrome extension that tracks your browsing time on all of your tabs across all
 
 What's Up Doc provides an intuitive and beautiful search system that incorporates all of the requirements you may have when finding a new doctor, including location, accepted health insurance, specialty, and years of experience. With What's Up Doc, you can find your perfect doctor faster than ever.
 
+## [FarmSight](https://github.com/Crustacean-Hacks/FarmSight)
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,django,react,html,css)](https://skillicons.dev)
+
+Data analytics project using Python and the Pandas library. Predicting agricultural companies' success for The Good Acre in partnership with Analytics for Good Institute. 
 
 ## [JustChange](https://github.com/Crustacean-Hacks/JustChange)
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-<img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,html,css)](https://skillicons.dev)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At quis risus sed vulputate. Nunc sed augue lacus viverra vitae congue eu. Duis at consectetur lorem donec. Sed turpis tincidunt id aliquet risus feugiat. Montes nascetur ridiculus mus mauris vitae ultricies leo. Sollicitudin nibh sit amet commodo nulla. Eu volutpat odio facilisis mauris sit amet massa vitae. Sed pulvinar proin gravida hendrerit lectus. Eleifend donec pretium vulputate sapien. Sed blandit libero volutpat sed. Orci phasellus egestas tellus rutrum tellus pellentesque. Platea dictumst vestibulum rhoncus est. Dignissim diam quis enim lobortis scelerisque fermentum dui faucibus. Vitae aliquet nec ullamcorper sit amet risus nullam eget felis. Vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor posuere. Non consectetur a erat nam.
-
-## [FarmSight](https://github.com/Crustacean-Hacks/FarmSight)
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quam pellentesque nec nam aliquam sem et tortor consequat. Netus et malesuada fames ac turpis. Ut ornare lectus sit amet est placerat in egestas erat. Ac tortor vitae purus faucibus ornare suspendisse sed nisi. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Molestie ac feugiat sed lectus. Leo a diam sollicitudin tempor id eu nisl nunc. Nulla pharetra diam sit amet. Ante metus dictum at tempor commodo ullamcorper a lacus. Ac odio tempor orci dapibus.
-
-
+Promoting civic engagement by gamifying philanthropy through a Tinder-style card system, and a yearly Spotify-style wrapped recap. 
