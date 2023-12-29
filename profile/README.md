@@ -6,10 +6,10 @@
 Hi there, we are Crustacean Hacks! We are a group of students from the University of Minnesota Twin Cities in the College of Science and Engineering. We are Computer Science majors and minors who are passionate about software development and creating new and exciting projects. We are currently working on a variety of projects that we are excited to share with you.
 
 ## [Alex](https://github.com/alex-iliarski)  
-[Linkedin](https://www.linkedin.com/in/alex-iliarski/)
+`alexiliarski@gmail.com` | [Linkedin](https://www.linkedin.com/in/alex-iliarski/) | [GitHub](https://github.com/alex-iliarski) | [Devpost](https://devpost.com/alex-iliarski)
 
 ## [Andrew](https://github.com/i0dev)  
-[Linkedin](https://www.linkedin.com/in/andrewomagnuson/)
+`andrewomagnuson@gmail.com` | [Linkedin](https://www.linkedin.com/in/andrewomagnuson/) | [GitHub](https://github.com/i0dev) | [Devpost](https://devpost.com/i0dev)
 
 ## [Ben](https://github.com/BenjaminLindeen) 
 I am a junior studying computer science with minors in entrepreneurial management and technology management at the University of Minnesota Twin Cities. I am interested in data science and full-stack web development. I mainly work with the team's front end, however, I do help with the back end when needed. I am best with Python, and Javascript, I also work in Java, R, and C/C++. 
@@ -23,7 +23,7 @@ I am currently looking for an internship for the summer of 2024. If you are inte
 
 ## [Robert](https://github.com/RWang-Dev)  
 
-[Linkedin](https://www.linkedin.com/in/rwang523/)
+`rwang.ep@gmail.com` | [Linkedin](https://www.linkedin.com/in/rwang523/) | [GitHub](https://github.com/RWang-Dev) | [Devpost](https://devpost.com/RWang-Dev)
 
 # Our Projects
 
