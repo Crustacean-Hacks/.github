@@ -1,11 +1,6 @@
 <h1 align='center'>
-  NAME TBD
+  Crustacean Hacks
 </h1>
-
-<p align='center'>
-  <i>this is a slogan or where a slogan goes when we have</i>
-</p>
-
 
 # Who We Are? 
 Hi there, we are Crustacean Hacks! We are a group of students from the University of Minnesota Twin Cities in the College of Science and Engineering. We are Computer Science majors and minors who are passionate about software development and creating new and exciting projects. We are currently working on a variety of projects that we are excited to share with you.
@@ -21,9 +16,9 @@ My name is Isaac Berlin. I am a third year juinor at the University of Minnesota
 I am currently looking for an internship for the summer of 2024. If you are interested in hiring me, please contact me at | `dev@isaacberlin.me` | [Github](https://github.com/isaac-berlin) | [Linkedin](https://www.linkedin.com/in/isaac-berlin/) | [Devpost](https://devpost.com/isaac-berlin) | [Resume](resumes/isaac-berlin/Isaac%20Berlin%20Resume%20V2.pdf) |
 
 ## [Ben](https://github.com/BenjaminLindeen) 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed adipiscing diam donec adipiscing. Pharetra massa massa ultricies mi quis hendrerit dolor magna. Ultrices vitae auctor eu augue. Aliquet nibh praesent tristique magna sit amet purus gravida. Fermentum leo vel orci porta non pulvinar neque. Eu ultrices vitae auctor eu augue ut lectus arcu bibendum. Gravida in fermentum et sollicitudin ac orci phasellus egestas. Cras tincidunt lobortis feugiat vivamus at augue eget arcu dictum. Non diam phasellus vestibulum lorem. Mattis molestie a iaculis at erat pellentesque. Urna nunc id cursus metus aliquam eleifend mi in. At augue eget arcu dictum varius duis at consectetur. Cursus eget nunc scelerisque viverra. Quis vel eros donec ac odio tempor. Auctor elit sed vulputate mi sit amet mauris. At consectetur lorem donec massa. Venenatis urna cursus eget nunc scelerisque viverra mauris in. In hac habitasse platea dictumst quisque sagittis purus sit. Condimentum lacinia quis vel eros donec.
+I am a junior studying computer science with minors in entrepreneurial management and technology management at the University of Minnesota Twin Cities. I am interested in data science and full-stack web development. I mainly work with the team's front end, however, I do help with the back end when needed. I am best with Python, and Javascript, I also work in Java, R, and C/C++. 
 
-[Linkedin](https://www.linkedin.com/in/benjaminlindeen/)
+`benjaminlindeen@outlook.com` | [LinkedIn](https://www.linkedin.com/in/benjaminlindeen) | [Resume](https://docs.google.com/document/d/1umGJqfcDb26GyK_wBpfdNIRu-HMwFcV4mJjp5U9vrVI/edit?usp=sharing) | [GitHub](https://github.com/BenjaminLindeen) | [DevPost](https://devpost.com/benjaminlindeen?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) | [Medium](https://medium.com/@benjaminlindeen) | [PC Part Picker](https://pcpartpicker.com/user/Asian_PC_Guy/saved/)
 
 ## [Alex](https://github.com/alex-iliarski)  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sem fringilla ut morbi tincidunt. Mauris cursus mattis molestie a iaculis at erat pellentesque. Tincidunt id aliquet risus feugiat in ante metus. Eget lorem dolor sed viverra. Id neque aliquam vestibulum morbi blandit cursus. Ac orci phasellus egestas tellus rutrum tellus pellentesque. Et ultrices neque ornare aenean euismod elementum. Suscipit tellus mauris a diam maecenas sed enim ut sem. Scelerisque eleifend donec pretium vulputate sapien nec sagittis aliquam. Aliquet sagittis id consectetur purus ut faucibus.
