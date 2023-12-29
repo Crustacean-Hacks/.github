@@ -16,6 +16,7 @@ Contact: `alexiliarski@gmail.com` | [LinkedIn](https://www.linkedin.com/in/alex-
 
 ## [Andrew O'Konski-Magnuson](https://github.com/i0dev)
 - **Major**: Computer Science
+- **Minors**: Interdisciplinary Design, Information Technology Infrastructure
 - **School**: University of Minnesota Twin Cities
 - **Interests**: Cybersecurity, Information Technology, DevOps
 - **Languages**: Java (Expert), Various Others (Proficient)
@@ -25,6 +26,7 @@ Contact: `andrewomagnuson@gmail.com` | [LinkedIn](https://www.linkedin.com/in/an
 
 ## [Benjamin Lindeen](https://github.com/BenjaminLindeen) 
 - **Major**: Computer Science
+- **Minors**: Entrepreneurial Management, Technology Management
 - **School**: University of Minnesota Twin Cities
 - **Interests**: Data Science, Full-Stack Web Development, Entrepreneurship, Technology Management
 - **Languages**: Python, Javascript, Java, R, C/C++, SQL
@@ -34,6 +36,7 @@ Contact: `benjaminlindeen@outlook.com` | [LinkedIn](https://www.linkedin.com/in/
 
 ## [Isaac Berlin](https://github.com/isaac-berlin)  
 - **Major**: Computer Science
+- **Minors**: Mathematics
 - **School**: University of Minnesota Twin Cities
 - **Interests**: Machine Learning, Artificial Intelligence, Software Development
 - **Languages**: Python (Favorite), Java, C, C++
@@ -43,12 +46,14 @@ Contact: `dev@isaacberlin.me` | [GitHub](https://github.com/isaac-berlin) | [Lin
 
 ## [Robert Wang](https://github.com/RWang-Dev)
 - **Major**: Computer Science
+- **Minors**: Mathematics
 - **School**: University of Minnesota Twin Cities
 - **Interests**: Artificial Intelligence, Machine Learning, Software Engineering, Web Development
 - **Languages**: Python, Javascript, Java, C/C++, React, Express, SQL
 - **Role**: Front-End Web Developer
 
 Contact: `rwang.ep@gmail.com` | [LinkedIn](https://www.linkedin.com/in/rwang523/) | [GitHub](https://github.com/RWang-Dev) | [Devpost](https://devpost.com/RWang-Dev)
+
 
 # Our Projects
 
