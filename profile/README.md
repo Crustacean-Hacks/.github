@@ -43,12 +43,12 @@ A Chrome extension that tracks your browsing time on all of your tabs across all
 
 What's Up Doc provides an intuitive and beautiful search system that incorporates all of the requirements you may have when finding a new doctor, including location, accepted health insurance, specialty, and years of experience. With What's Up Doc, you can find your perfect doctor faster than ever.
 
-## [FarmSight](https://github.com/Crustacean-Hacks/FarmSight)
+## [FarmSight](https://github.com/Crustacean-Hacks/FarmSight) | Bestbuy Award winner @ CSOM Analytics for Good Institute Hackathon 2023 🎉
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,django,react,html,css)](https://skillicons.dev)
 
 Data analytics project using Python and the Pandas library. Predicting agricultural companies' success for The Good Acre in partnership with Analytics for Good Institute. 
 
 ## [JustChange](https://github.com/Crustacean-Hacks/JustChange)
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,java,python,mysql,html,css)](https://skillicons.dev)
 
 Promoting civic engagement by gamifying philanthropy through a Tinder-style card system, and a yearly Spotify-style wrapped recap. 
