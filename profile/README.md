@@ -11,12 +11,12 @@ My name is Alex Iliarski. I am a junior studying mathematics and computer scienc
 `alexiliarski@gmail.com` | [Linkedin](https://www.linkedin.com/in/alex-iliarski/) | [GitHub](https://github.com/alex-iliarski) | [Devpost](https://devpost.com/alex-iliarski)
 
 ## [Andrew](https://github.com/i0dev)  
-My name is Andrew O'Konski-Magnuson. I am a junior studying computer science with minors in interdisciplinary design and information technology infrastructure at the University of Minnesota Twin Cities. I am interested in cyber security, information technology, and devops. I work on the full stack of our projects with an emphasis on data processing, database management, and website infrastructure. 
+My name is Andrew O'Konski-Magnuson. I am a junior studying computer science with minors in interdisciplinary design and information technology infrastructure at the University of Minnesota Twin Cities. I am interested in cyber security, information technology, and devops. I am an expert in Java, and I am proficient in many other languages. I work on the full stack of our projects with an emphasis on data processing, database management, and website infrastructure. 
 
 `andrewomagnuson@gmail.com` | [Linkedin](https://www.linkedin.com/in/andrewomagnuson/) | [GitHub](https://github.com/i0dev) | [Devpost](https://devpost.com/i0dev)
 
 ## [Ben](https://github.com/BenjaminLindeen) 
-My name is Benjamin Lindeen. I am a junior studying computer science with minors in entrepreneurial management and technology management at the University of Minnesota Twin Cities. I am interested in data science and full-stack web development. I mainly work with the team's front end, however, I do help with the back end when needed. I am best with Python, and Javascript, I also work in Java, R, and C/C++. 
+My name is Benjamin Lindeen. I am a junior studying computer science with minors in entrepreneurial management and technology management at the University of Minnesota Twin Cities. I am interested in data science and full-stack web development. I mainly work with the team's front end, however, I do help with the back end when needed. I am best with Python, and Javascript, I also work in Java, R, C/C++, and SQL. 
 
 `benjaminlindeen@outlook.com` | [LinkedIn](https://www.linkedin.com/in/benjaminlindeen) | [Resume](https://docs.google.com/document/d/1umGJqfcDb26GyK_wBpfdNIRu-HMwFcV4mJjp5U9vrVI/edit?usp=sharing) | [GitHub](https://github.com/BenjaminLindeen) | [DevPost](https://devpost.com/benjaminlindeen?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) | [Medium](https://medium.com/@benjaminlindeen) | [PC Part Picker](https://pcpartpicker.com/user/Asian_PC_Guy/saved/)
 
@@ -26,7 +26,7 @@ My name is Isaac Berlin. I am a third year juinor at the University of Minnesota
 I am currently looking for an internship for the summer of 2024. If you are interested in hiring me, please contact me at | `dev@isaacberlin.me` | [Github](https://github.com/isaac-berlin) | [Linkedin](https://www.linkedin.com/in/isaac-berlin/) | [Devpost](https://devpost.com/isaac-berlin) | [Resume](resumes/isaac-berlin/Isaac%20Berlin%20Resume%20V2.pdf) |
 
 ## [Robert](https://github.com/RWang-Dev)
-My name is Robert Wang. I am a junior studying computer science with a minor in mathematics at the University of Minnesota Twin Cities. I am interested in artificial intelligence, machine learning, software engineering, and web development. I work with the full stack but mainly the front-end web development on our projects.
+My name is Robert Wang. I am a junior studying computer science with a minor in mathematics at the University of Minnesota Twin Cities. I am interested in artificial intelligence, machine learning, software engineering, and web development. I am best with Python, Javascript, Java, C/C++, React, Express, and SQL. I work with the full stack but mainly the front-end web development on our projects.
 
 `rwang.ep@gmail.com` | [Linkedin](https://www.linkedin.com/in/rwang523/) | [GitHub](https://github.com/RWang-Dev) | [Devpost](https://devpost.com/RWang-Dev)
 
