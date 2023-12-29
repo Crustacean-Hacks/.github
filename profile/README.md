@@ -33,15 +33,10 @@ Hello
 
 # Our Projects
 
-## [WhatsUpDoc](https://github.com/Crustacean-Hacks/WhatsUpDoc)
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> 
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"> 
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+## [WhatsUpDoc](https://github.com/Crustacean-Hacks/WhatsUpDoc) | Domain.com Award winner @ MadHacks 2023 🎉
+[![My Skills](https://skillicons.dev/icons?i=python,flask,html,CSS,bootstrap,mongodb)](https://skillicons.dev)
 
 • What's Up Doc provides an intuitive and beautiful search system that incorporates all of the requirements you may have when finding a new doctor, including location, accepted health insurance, specialty, and years of experience. With What's Up Doc, you can find your perfect doctor faster than ever.
-• Tech stack: HTML, CSS, Bootstrap, Python, Flask, MongoDB, Twilio, Google Maps API
-• Domain.com award winner @ Madhacks Hackathon 2023
 
 
 ## [JustChange](https://github.com/Crustacean-Hacks/JustChange)
