@@ -6,8 +6,7 @@
 Hi there, we are Crustacean Hacks! We are a group of students from the University of Minnesota Twin Cities in the College of Science and Engineering. We are Computer Science majors and minors who are passionate about software development and creating new and exciting projects. We are currently working on a variety of projects that we are excited to share with you.
 
 ## [Alex Iliarski](https://github.com/alex-iliarski)
-- **Major**: Mathematics and Computer Science B.S., Computer Science M.S.
-- **School**: University of Minnesota Twin Cities
+- **Major**: Mathematics B.S., Computer Science B.S., Computer Science M.S. @ University of Minnesota Twin Cities - College of Science and Engineering
 - **Interests**: Artificial Intelligence, Machine Learning, Data Science
 - **Languages**: Python, Java, Javascript, C/C++, PHP
 - **Role**: Full Stack Developer
@@ -15,9 +14,8 @@ Hi there, we are Crustacean Hacks! We are a group of students from the Universit
 Contact: `alexiliarski@gmail.com` | [LinkedIn](https://www.linkedin.com/in/alex-iliarski/) | [GitHub](https://github.com/alex-iliarski) | [Devpost](https://devpost.com/alex-iliarski)
 
 ## [Andrew O'Konski-Magnuson](https://github.com/i0dev)
-- **Major**: Computer Science
+- **Major**: Computer Science @ University of Minnesota Twin Cities - College of Science and Engineering
 - **Minors**: Interdisciplinary Design, Information Technology Infrastructure
-- **School**: University of Minnesota Twin Cities
 - **Interests**: Cybersecurity, Information Technology, DevOps
 - **Languages**: Java (Expert), Various Others (Proficient)
 - **Role**: Full Stack Developer (Focus on Data Processing, Database Management, Website Infrastructure)
@@ -25,32 +23,28 @@ Contact: `alexiliarski@gmail.com` | [LinkedIn](https://www.linkedin.com/in/alex-
 Contact: `andrewomagnuson@gmail.com` | [LinkedIn](https://www.linkedin.com/in/andrewomagnuson/) | [GitHub](https://github.com/i0dev) | [Devpost](https://devpost.com/i0dev)
 
 ## [Benjamin Lindeen](https://github.com/BenjaminLindeen) 
-- **Major**: Computer Science
+- **Major**: Computer Science @ University of Minnesota Twin Cities - College of Science and Engineering
 - **Minors**: Entrepreneurial Management, Technology Management
-- **School**: University of Minnesota Twin Cities
-- **Interests**: Data Science, Full-Stack Web Development, Entrepreneurship, Technology Management
+- **Interests**: Data Science, Full-Stack Web Development
 - **Languages**: Python, Javascript, Java, R, C/C++, SQL
 - **Role**: Front-End Developer (Assists with Back-End as Needed)
 
 Contact: `benjaminlindeen@outlook.com` | [LinkedIn](https://www.linkedin.com/in/benjaminlindeen) | [Resume](https://docs.google.com/document/d/1umGJqfcDb26GyK_wBpfdNIRu-HMwFcV4mJjp5U9vrVI/edit?usp=sharing) | [GitHub](https://github.com/BenjaminLindeen) | [DevPost](https://devpost.com/benjaminlindeen?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) | [Medium](https://medium.com/@benjaminlindeen) | [PC Part Picker](https://pcpartpicker.com/user/Asian_PC_Guy/saved/)
 
 ## [Isaac Berlin](https://github.com/isaac-berlin)  
-- **Major**: Computer Science
-- **Minors**: Mathematics
-- **School**: University of Minnesota Twin Cities
+- **Major**: Computer Science @ University of Minnesota Twin Cities - College of Science and Engineering
 - **Interests**: Machine Learning, Artificial Intelligence, Software Development
-- **Languages**: Python (Favorite), Java, C, C++
+- **Languages**: Python (Favorite), Java, C/C++
 - **Role**: Full Stack Developer
 
 Contact: `dev@isaacberlin.me` | [GitHub](https://github.com/isaac-berlin) | [LinkedIn](https://www.linkedin.com/in/isaac-berlin/) | [Devpost](https://devpost.com/isaac-berlin) | [Resume](resumes/isaac-berlin/Isaac%20Berlin%20Resume%20V2.pdf)
 
 ## [Robert Wang](https://github.com/RWang-Dev)
-- **Major**: Computer Science
+- **Major**: Computer Science @ University of Minnesota Twin Cities - College of Science and Engineering
 - **Minors**: Mathematics
-- **School**: University of Minnesota Twin Cities
 - **Interests**: Artificial Intelligence, Machine Learning, Software Engineering, Web Development
 - **Languages**: Python, Javascript, Java, C/C++, React, Express, SQL
-- **Role**: Front-End Web Developer
+- **Role**: Front-End Developer (Assists with Back-End as Needed)
 
 Contact: `rwang.ep@gmail.com` | [LinkedIn](https://www.linkedin.com/in/rwang523/) | [GitHub](https://github.com/RWang-Dev) | [Devpost](https://devpost.com/RWang-Dev)
 
