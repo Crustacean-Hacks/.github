@@ -39,6 +39,14 @@ Contact: `benjaminlindeen@outlook.com` | [LinkedIn](https://www.linkedin.com/in/
 
 Contact: `dev@isaacberlin.me` | [GitHub](https://github.com/isaac-berlin) | [LinkedIn](https://www.linkedin.com/in/isaac-berlin/) | [Devpost](https://devpost.com/isaac-berlin) | [Resume](resumes/isaac-berlin/Isaac%20Berlin%20Resume%20V2.pdf)
 
+## [Michael Ginzburg](https://github.com/ginzburg1991)
+- **Major**: Computer Science B.S.
+- **Interests**: Data Science
+- **Languages**: Python, C/C++, R, Java
+- **Role**: Data Sciencentist
+
+Contact: `alexiliarski@gmail.com` | [LinkedIn](https://www.linkedin.com/in/alex-iliarski/) | [GitHub](https://github.com/alex-iliarski) | [Devpost](https://devpost.com/alex-iliarski)
+
 ## [Robert Wang](https://github.com/RWang-Dev)
 - **Major**: Computer Science
 - **Minors**: Mathematics
@@ -50,6 +58,10 @@ Contact: `rwang.ep@gmail.com` | [LinkedIn](https://www.linkedin.com/in/rwang523/
 
 
 # Our Projects
+## [AGI 2024]([https://github.com/Crustacean-Hacks/HackUIowa](https://github.com/Crustacean-Hacks/AGI2024))
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css)](https://skillicons.dev)
+
+TBD
 
 ## [TabTime](https://github.com/Crustacean-Hacks/HackUIowa)
 ### MongoDB Award winner @ HackUIowa 2023 🎉
