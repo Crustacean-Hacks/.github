@@ -3,7 +3,7 @@
 </h1>
 
 # Who We Are? 
-Hi there, we are Crustacean Hacks! We are a group of students from the University of Minnesota Twin Cities in the College of Science and Engineering. We are Computer Science majors and minors who are passionate about software development and creating new and exciting projects. We are currently working on a variety of projects that we are excited to share with you.
+Hi there, we are Crustacean Hacks! We are a group of students from the University of Minnesota Twin Cities in the College of Science and Engineering. We are Computer Science majors who are passionate about software development and creating new and exciting projects. We are currently working on a variety of projects for various hackathons around the US that we are excited to share with you.
 
 ## [Alex Iliarski](https://github.com/alex-iliarski)
 - **Major**: Mathematics B.S., Computer Science B.S., Computer Science M.S.
