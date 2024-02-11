@@ -58,10 +58,10 @@ Contact: `rwang.ep@gmail.com` | [LinkedIn](https://www.linkedin.com/in/rwang523/
 
 
 # Our Projects
-## [AGI 2024]([https://github.com/Crustacean-Hacks/HackUIowa](https://github.com/Crustacean-Hacks/AGI2024))
+## [Hire Equity]([https://github.com/Crustacean-Hacks/HackUIowa](https://github.com/Crustacean-Hacks/AGI2024))
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css)](https://skillicons.dev)
 
-TBD
+Examining and statistically analyzing over 6 million job applications in India between 2015 and 2018. Using machine learning techniques, data science, and data analytics to predict if India's increase in maternity leave had a positive impact on women's ability to apply for jobs and their ability to be interviewed for jobs. 
 
 ## [TabTime](https://github.com/Crustacean-Hacks/HackUIowa)
 ### MongoDB Award winner @ HackUIowa 2023 🎉
