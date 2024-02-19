@@ -9,7 +9,7 @@ Hi there, we are Crustacean Hacks! We are a group of students from the Universit
 - **Major**: Mathematics B.S., Computer Science B.S., Computer Science M.S.
 - **Interests**: Artificial Intelligence, Machine Learning, Data Science
 - **Languages**: Python, Java, Javascript, C/C++, PHP
-- **Role**: Backend Developer
+- **Role**: Backend Developer (Works with frontend when needed)
 
 Contact: `alexiliarski@gmail.com` | [LinkedIn](https://www.linkedin.com/in/alex-iliarski/) | [GitHub](https://github.com/alex-iliarski) | [Devpost](https://devpost.com/alex-iliarski)
 
@@ -35,7 +35,7 @@ Contact: `benjaminlindeen@outlook.com` | [LinkedIn](https://www.linkedin.com/in/
 - **Major**: Computer Science
 - **Interests**: Machine Learning, Artificial Intelligence, Software Development
 - **Languages**: Python (Favorite), Java, C/C++
-- **Role**: Backend Developer
+- **Role**: Backend Developer (Works with frontend when needed)
 
 Contact: `dev@isaacberlin.me` | [GitHub](https://github.com/isaac-berlin) | [LinkedIn](https://www.linkedin.com/in/isaac-berlin/) | [Devpost](https://devpost.com/isaac-berlin) | [Resume](resumes/isaac-berlin/Isaac%20Berlin%20Resume%20V2.pdf)
 
@@ -52,7 +52,7 @@ Contact: `alexiliarski@gmail.com` | [LinkedIn](https://www.linkedin.com/in/alex-
 - **Minors**: Mathematics
 - **Interests**: Artificial Intelligence, Machine Learning, Software Engineering, Web Development
 - **Languages**: Python, Javascript, Java, C/C++, React, Express, SQL
-- **Role**: Full Stack Developer (Assists with Back-End as Needed)
+- **Role**: Full Stack Developer
 
 Contact: `rwang.ep@gmail.com` | [LinkedIn](https://www.linkedin.com/in/rwang523/) | [GitHub](https://github.com/RWang-Dev) | [Devpost](https://devpost.com/RWang-Dev)
 
