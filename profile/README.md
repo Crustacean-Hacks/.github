@@ -9,7 +9,7 @@ Hi there, we are Crustacean Hacks! We are a group of students from the Universit
 - **Major**: Mathematics B.S., Computer Science B.S., Computer Science M.S.
 - **Interests**: Artificial Intelligence, Machine Learning, Data Science
 - **Languages**: Python, Java, Javascript, C/C++, PHP
-- **Role**: Full Stack Developer
+- **Role**: Backend Developer
 
 Contact: `alexiliarski@gmail.com` | [LinkedIn](https://www.linkedin.com/in/alex-iliarski/) | [GitHub](https://github.com/alex-iliarski) | [Devpost](https://devpost.com/alex-iliarski)
 
@@ -18,7 +18,7 @@ Contact: `alexiliarski@gmail.com` | [LinkedIn](https://www.linkedin.com/in/alex-
 - **Minors**: Interdisciplinary Design, Information Technology Infrastructure
 - **Interests**: Cybersecurity, Information Technology, DevOps
 - **Languages**: Java (Expert), Various Others (Proficient)
-- **Role**: Full Stack Developer (Focus on Data Processing, Database Management, Website Infrastructure)
+- **Role**: Backend Developer (Focus on Data Processing, Database Management, Website Infrastructure)
 
 Contact: `andrewomagnuson@gmail.com` | [LinkedIn](https://www.linkedin.com/in/andrewomagnuson/) | [GitHub](https://github.com/i0dev) | [Devpost](https://devpost.com/i0dev)
 
@@ -27,7 +27,7 @@ Contact: `andrewomagnuson@gmail.com` | [LinkedIn](https://www.linkedin.com/in/an
 - **Minors**: Entrepreneurial Management, Technology Management
 - **Interests**: Data Science, Full-Stack Web Development
 - **Languages**: Python, Javascript, Java, R, C/C++, SQL
-- **Role**: Front-End Developer (Assists with Back-End as Needed)
+- **Role**: Full Stack Developer (Works with data science when needed)
 
 Contact: `benjaminlindeen@outlook.com` | [LinkedIn](https://www.linkedin.com/in/benjaminlindeen) | [Resume](https://docs.google.com/document/d/1umGJqfcDb26GyK_wBpfdNIRu-HMwFcV4mJjp5U9vrVI/edit?usp=sharing) | [GitHub](https://github.com/BenjaminLindeen) | [DevPost](https://devpost.com/benjaminlindeen?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) | [Medium](https://medium.com/@benjaminlindeen) | [PC Part Picker](https://pcpartpicker.com/user/Asian_PC_Guy/saved/)
 
@@ -35,7 +35,7 @@ Contact: `benjaminlindeen@outlook.com` | [LinkedIn](https://www.linkedin.com/in/
 - **Major**: Computer Science
 - **Interests**: Machine Learning, Artificial Intelligence, Software Development
 - **Languages**: Python (Favorite), Java, C/C++
-- **Role**: Full Stack Developer
+- **Role**: Backend Developer
 
 Contact: `dev@isaacberlin.me` | [GitHub](https://github.com/isaac-berlin) | [LinkedIn](https://www.linkedin.com/in/isaac-berlin/) | [Devpost](https://devpost.com/isaac-berlin) | [Resume](resumes/isaac-berlin/Isaac%20Berlin%20Resume%20V2.pdf)
 
@@ -52,7 +52,7 @@ Contact: `alexiliarski@gmail.com` | [LinkedIn](https://www.linkedin.com/in/alex-
 - **Minors**: Mathematics
 - **Interests**: Artificial Intelligence, Machine Learning, Software Engineering, Web Development
 - **Languages**: Python, Javascript, Java, C/C++, React, Express, SQL
-- **Role**: Front-End Developer (Assists with Back-End as Needed)
+- **Role**: Full Stack Developer (Assists with Back-End as Needed)
 
 Contact: `rwang.ep@gmail.com` | [LinkedIn](https://www.linkedin.com/in/rwang523/) | [GitHub](https://github.com/RWang-Dev) | [Devpost](https://devpost.com/RWang-Dev)
 
