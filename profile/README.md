@@ -45,7 +45,7 @@ Contact: `dev@isaacberlin.me` | [GitHub](https://github.com/isaac-berlin) | [Lin
 - **Languages**: Python, C/C++, R, Java
 - **Role**: Data Scientist
 
-Contact: `michaelginzburg321@gmail.com` | [LinkedIn]([linkedin.com/in/michael-ginzburg-853409194](https://www.linkedin.com/in/michael-ginzburg-853409194/)) | [GitHub](https://github.com/alex-iliarski)
+Contact: `michaelginzburg321@gmail.com` | [LinkedIn](www.linkedin.com/in/michael-ginzburg-853409194) | [GitHub](https://github.com/alex-iliarski)
 
 ## [Robert Wang](https://github.com/RWang-Dev)
 - **Major**: Computer Science
