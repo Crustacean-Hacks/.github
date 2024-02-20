@@ -41,9 +41,9 @@ Contact: `dev@isaacberlin.me` | [GitHub](https://github.com/isaac-berlin) | [Lin
 
 ## [Michael Ginzburg](https://github.com/ginzburg1991)
 - **Major**: Computer Science B.S.
-- **Interests**: Data Science
+- **Interests**: Data Science, Machine Learning
 - **Languages**: Python, C/C++, R, Java
-- **Role**: Data Sciencentist
+- **Role**: Data Scientist
 
 Contact: `alexiliarski@gmail.com` | [LinkedIn](https://www.linkedin.com/in/alex-iliarski/) | [GitHub](https://github.com/alex-iliarski) | [Devpost](https://devpost.com/alex-iliarski)
 
