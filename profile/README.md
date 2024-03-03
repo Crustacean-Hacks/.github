@@ -58,7 +58,7 @@ Contact: `rwang.ep@gmail.com` | [LinkedIn](https://www.linkedin.com/in/rwang523/
 
 
 # Our Projects
-## [Hire Equity]([https://github.com/Crustacean-Hacks/HackUIowa](https://github.com/Crustacean-Hacks/HireEquity))
+## [Hire Equity](https://github.com/Crustacean-Hacks/HireEquity)
 ### 3M Most Innovative Award winner @ CSOM Analytics for Good Institute Hackathon 2024 🎉
 [![My Skills](https://skillicons.dev/icons?i=python,sklearn,flask,javascript,html,css)](https://skillicons.dev)
 
