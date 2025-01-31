@@ -59,10 +59,10 @@ Contact: `rwang.ep@gmail.com` | [LinkedIn](https://www.linkedin.com/in/rwang523/
 ## [Justin Lee](https://github.com/JustinLee9)
 - **Major**: Computer Science
 - **Interests**: Software Engineering
-- **Languages**: Python, SQL
+- **Languages**: Python, SQL, Javascript, HTML, Java
 - **Role**: Full Stack Developer
 
-Contact: `p@gmail.com` | [LinkedIn](https://www.linkedin.com/in//) | [GitHub](https://github.com/JustinLee9)
+Contact: `justinlee01656@gmail.com` | [LinkedIn](https://www.linkedin.com/in/justin-lee-85b2a8224/) | [GitHub](https://github.com/JustinLee9)
 
 
 # Our Projects
