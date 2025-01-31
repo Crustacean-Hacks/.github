@@ -56,6 +56,14 @@ Contact: `michaelginzburg321@gmail.com` | [LinkedIn](https://www.linkedin.com/in
 
 Contact: `rwang.ep@gmail.com` | [LinkedIn](https://www.linkedin.com/in/rwang523/) | [GitHub](https://github.com/RWang-Dev) | [Devpost](https://devpost.com/RWang-Dev)
 
+## [Justin Lee](https://github.com/JustinLee9)
+- **Major**: Computer Science
+- **Interests**: Software Engineering
+- **Languages**: Python, SQL
+- **Role**: Full Stack Developer
+
+Contact: `p@gmail.com` | [LinkedIn](https://www.linkedin.com/in//) | [GitHub](https://github.com/JustinLee9)
+
 
 # Our Projects
 ## [Hire Equity](https://github.com/Crustacean-Hacks/HireEquity)
