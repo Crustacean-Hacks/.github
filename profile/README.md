@@ -13,15 +13,6 @@ Hi there, we are Crustacean Hacks! We are a group of students from the Universit
 
 Contact: `alexiliarski@gmail.com` | [LinkedIn](https://www.linkedin.com/in/alex-iliarski/) | [GitHub](https://github.com/alex-iliarski) | [Devpost](https://devpost.com/alex-iliarski)
 
-## [Andrew O'Konski-Magnuson](https://github.com/i0dev)
-- **Major**: Computer Science
-- **Minors**: Interdisciplinary Design, Information Technology Infrastructure
-- **Interests**: Cybersecurity, Information Technology, DevOps
-- **Languages**: Java (Expert), Various Others (Proficient)
-- **Role**: Backend Developer (Focus on Data Processing, Database Management, Website Infrastructure)
-
-Contact: `andrewomagnuson@gmail.com` | [LinkedIn](https://www.linkedin.com/in/andrewomagnuson/) | [GitHub](https://github.com/i0dev) | [Devpost](https://devpost.com/i0dev)
-
 ## [Benjamin Lindeen](https://github.com/BenjaminLindeen) 
 - **Major**: Computer Science
 - **Minors**: Entrepreneurial Management, Technology Management
