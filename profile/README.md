@@ -8,50 +8,44 @@ Hi there, we are Crustacean Hacks! We are a group of students from the Universit
 ## [Alex Iliarski](https://github.com/alex-iliarski)
 - **Major**: Mathematics B.S., Computer Science B.S., Computer Science M.S.
 - **Interests**: Artificial Intelligence, Machine Learning, Data Science
-- **Languages**: Python, Java, Javascript, C/C++, PHP
-- **Role**: Backend Developer (Works with frontend and data science when needed)
+- **Languages**: Python, Javascript/Typescript, C/C++/C#, PHP, SQL
 
 Contact: `alexiliarski@gmail.com` | [LinkedIn](https://www.linkedin.com/in/alex-iliarski/) | [GitHub](https://github.com/alex-iliarski) | [Devpost](https://devpost.com/alex-iliarski)
 
 ## [Benjamin Lindeen](https://github.com/BenjaminLindeen) 
 - **Major**: Computer Science
-- **Minors**: Entrepreneurial Management, Technology Management
-- **Interests**: Data Science, Full-Stack Web Development
-- **Languages**: Python, Javascript, Java, R, C/C++, SQL
-- **Role**: Full Stack Developer (Works with data science when needed)
+- **Minors**: Management of Technology, Political Science
+- **Interests**: Full-Stack Web Development, Business Intelligence
+- **Languages**: Python, Javascript, R, SQL
 
 Contact: `benjaminlindeen@outlook.com` | [LinkedIn](https://www.linkedin.com/in/benjaminlindeen) | [Resume](https://docs.google.com/document/d/1umGJqfcDb26GyK_wBpfdNIRu-HMwFcV4mJjp5U9vrVI/edit?usp=sharing) | [GitHub](https://github.com/BenjaminLindeen) | [DevPost](https://devpost.com/benjaminlindeen?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) | [Medium](https://medium.com/@benjaminlindeen) | [PC Part Picker](https://pcpartpicker.com/user/Asian_PC_Guy/saved/)
 
 ## [Isaac Berlin](https://github.com/isaac-berlin)  
 - **Major**: Computer Science
-- **Interests**: Machine Learning, Artificial Intelligence, Software Development
-- **Languages**: Python (Favorite), Java, C/C++
-- **Role**: Backend Developer (Works with frontend and data science when needed)
+- **Interests**: Machine Learning, Artificial Intelligence
+- **Languages**: Python, C/C++
 
 Contact: `dev@isaacberlin.me` | [GitHub](https://github.com/isaac-berlin) | [LinkedIn](https://www.linkedin.com/in/isaac-berlin/) | [Devpost](https://devpost.com/isaac-berlin) | [Resume](resumes/isaac-berlin/Isaac%20Berlin%20Resume%20V2.pdf)
 
 ## [Michael Ginzburg](https://github.com/ginzburg1991)
 - **Major**: Computer Science B.S.
-- **Interests**: Data Science, Machine Learning
-- **Languages**: Python, C/C++, R, Java
-- **Role**: Data Scientist
+- **Interests**: Data Science
+- **Languages**: Python, R, SQL
 
 Contact: `michaelginzburg321@gmail.com` | [LinkedIn](https://www.linkedin.com/in/michael-ginzburg-853409194) | [GitHub](https://github.com/ginzburg1991)
 
 ## [Robert Wang](https://github.com/RWang-Dev)
 - **Major**: Computer Science
 - **Minors**: Mathematics
-- **Interests**: Artificial Intelligence, Machine Learning, Software Engineering, Web Development
-- **Languages**: Python, Javascript, Java, C/C++, React, Express, SQL
-- **Role**: Full Stack Developer
+- **Interests**: Software Engineering, Web Development
+- **Languages**: Python, Javascript/Typescript, Java, C/C++, React, Vue, SQL
 
 Contact: `rwang.ep@gmail.com` | [LinkedIn](https://www.linkedin.com/in/rwang523/) | [GitHub](https://github.com/RWang-Dev) | [Devpost](https://devpost.com/RWang-Dev)
 
 ## [Justin Lee](https://github.com/JustinLee9)
 - **Major**: Computer Science
 - **Interests**: Software Engineering
-- **Languages**: Python, SQL, Javascript, HTML, Java
-- **Role**: Full Stack Developer
+- **Languages**: Python, SQL, Javascript/Typecript, Java
 
 Contact: `justinlee01656@gmail.com` | [LinkedIn](https://www.linkedin.com/in/justin-lee-85b2a8224/) | [GitHub](https://github.com/JustinLee9)
 
