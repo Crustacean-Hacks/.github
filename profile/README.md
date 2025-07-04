@@ -30,6 +30,13 @@ Contact: `benjaminlindeen@outlook.com` | [GitHub](https://github.com/BenjaminLin
 
 Contact: `dev@isaacberlin.me` | [GitHub](https://github.com/isaac-berlin) | [LinkedIn](https://www.linkedin.com/in/isaac-berlin/) | [Devpost](https://devpost.com/isaac-berlin) | [Resume](resumes/isaac-berlin/Isaac%20Berlin%20Resume%20V2.pdf)
 
+## [Justin Lee](https://github.com/JustinLee9)
+- **Degree**: Computer Science B.S.
+- **Interests**: Software Engineering
+- **Languages**: Python, SQL, Javascript/Typecript, Java
+
+Contact: `justinlee01656@gmail.com` | [GitHub](https://github.com/JustinLee9) | [LinkedIn](https://www.linkedin.com/in/justin-lee-85b2a8224/)
+
 ## [Michael Ginzburg](https://github.com/ginzburg1991)
 - **Position**: HR Analyst @ Helios Consulting
 - **Degree**: Computer Science B.S.
@@ -46,14 +53,6 @@ Contact: `michaelginzburg321@gmail.com` | [GitHub](https://github.com/ginzburg19
 - **Languages**: Python, Javascript/Typescript, Java, C/C++/C#, React, Vue, SQL
 
 Contact: `rwang.ep@gmail.com` | [GitHub](https://github.com/RWang-Dev) | [LinkedIn](https://www.linkedin.com/in/rwang523/) | [Devpost](https://devpost.com/RWang-Dev)
-
-## [Justin Lee](https://github.com/JustinLee9)
-- **Degree**: Computer Science B.S.
-- **Interests**: Software Engineering
-- **Languages**: Python, SQL, Javascript/Typecript, Java
-
-Contact: `justinlee01656@gmail.com` | [GitHub](https://github.com/JustinLee9) | [LinkedIn](https://www.linkedin.com/in/justin-lee-85b2a8224/)
-
 
 # Our Projects
 ## [Hire Equity](https://github.com/Crustacean-Hacks/HireEquity)
