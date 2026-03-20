@@ -31,9 +31,10 @@ Contact: `benjaminlindeen@outlook.com` | [GitHub](https://github.com/BenjaminLin
 Contact: `dev@isaacberlin.me` | [GitHub](https://github.com/isaac-berlin) | [LinkedIn](https://www.linkedin.com/in/isaac-berlin/) | [Devpost](https://devpost.com/isaac-berlin) | [Resume](resumes/isaac-berlin/Isaac%20Berlin%20Resume%20V2.pdf)
 
 ## [Justin Lee](https://github.com/JustinLee9)
+- **Position**: Software Engineer Intern @ FactoryTwin
 - **Degree**: Computer Science B.S.
 - **Interests**: Software Engineering
-- **Languages**: Python, SQL, Javascript/Typecript, Java
+- **Languages**: Python, Java, SQL, F#, Javascript/Typescript
 
 Contact: `justinlee01656@gmail.com` | [GitHub](https://github.com/JustinLee9) | [LinkedIn](https://www.linkedin.com/in/justin-lee-85b2a8224/)
 
